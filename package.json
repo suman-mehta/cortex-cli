@@ -1,0 +1,22 @@
+{
+  "name": "cortex-cli",
+  "version": "1.0.0",
+  "description": "High‑performance concurrency benchmark CLI for low‑level system stress testing",
+  "type": "module",
+  "bin": {
+    "cortex": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "developer-tools",
+    "automation",
+    "cli",
+    "nodejs",
+    "concurrency",
+    "benchmark"
+  ],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
